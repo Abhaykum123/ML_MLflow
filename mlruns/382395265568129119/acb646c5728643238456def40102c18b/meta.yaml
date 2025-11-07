@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/ML_MLflow/ML_MLflow/mlruns/382395265568129119/acb646c5728643238456def40102c18b/artifacts
+end_time: 1762528483307
+entry_point_name: ''
+experiment_id: '382395265568129119'
+lifecycle_stage: active
+run_id: acb646c5728643238456def40102c18b
+run_name: big-flea-599
+run_uuid: acb646c5728643238456def40102c18b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762528482833
+status: 3
+tags: []
+user_id: abhay kumar

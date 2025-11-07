@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/ML_MLflow/ML_MLflow/mlruns/0/d5f5bc55ae6a4dfeb42106913d41afe7/artifacts
+end_time: 1762528103454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5f5bc55ae6a4dfeb42106913d41afe7
+run_name: capricious-fawn-52
+run_uuid: d5f5bc55ae6a4dfeb42106913d41afe7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762528102953
+status: 3
+tags: []
+user_id: abhay kumar

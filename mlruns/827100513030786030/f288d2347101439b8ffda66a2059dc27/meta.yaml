@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/ML_MLflow/ML_MLflow/mlruns/827100513030786030/f288d2347101439b8ffda66a2059dc27/artifacts
+end_time: 1762546676699
+entry_point_name: ''
+experiment_id: '827100513030786030'
+lifecycle_stage: active
+run_id: f288d2347101439b8ffda66a2059dc27
+run_name: omniscient-stag-629
+run_uuid: f288d2347101439b8ffda66a2059dc27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762546676619
+status: 3
+tags: []
+user_id: abhay kumar

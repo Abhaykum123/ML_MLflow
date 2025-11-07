@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/ML_MLflow/ML_MLflow/mlruns/0/72f0cd1533714f979dd7614380e3a8ac/artifacts
+end_time: 1762526561097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72f0cd1533714f979dd7614380e3a8ac
+run_name: spiffy-bird-581
+run_uuid: 72f0cd1533714f979dd7614380e3a8ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762526560951
+status: 3
+tags: []
+user_id: abhay kumar

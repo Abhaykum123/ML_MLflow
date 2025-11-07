@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/ML_MLflow/ML_MLflow/mlruns/382395265568129119/53d638f6e2f94b5cb1faf58d5b6278ac/artifacts
+end_time: 1762528828251
+entry_point_name: ''
+experiment_id: '382395265568129119'
+lifecycle_stage: active
+run_id: 53d638f6e2f94b5cb1faf58d5b6278ac
+run_name: kindly-bug-397
+run_uuid: 53d638f6e2f94b5cb1faf58d5b6278ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762528827669
+status: 4
+tags: []
+user_id: abhay kumar

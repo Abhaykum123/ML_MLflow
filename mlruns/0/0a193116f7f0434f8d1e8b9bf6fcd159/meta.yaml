@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/ML_MLflow/ML_MLflow/mlruns/0/0a193116f7f0434f8d1e8b9bf6fcd159/artifacts
+end_time: 1762527600569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a193116f7f0434f8d1e8b9bf6fcd159
+run_name: adaptable-wasp-884
+run_uuid: 0a193116f7f0434f8d1e8b9bf6fcd159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762527600128
+status: 3
+tags: []
+user_id: abhay kumar

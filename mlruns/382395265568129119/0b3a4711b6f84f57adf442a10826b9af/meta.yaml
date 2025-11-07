@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/ML_MLflow/ML_MLflow/mlruns/382395265568129119/0b3a4711b6f84f57adf442a10826b9af/artifacts
+end_time: 1762529089289
+entry_point_name: ''
+experiment_id: '382395265568129119'
+lifecycle_stage: active
+run_id: 0b3a4711b6f84f57adf442a10826b9af
+run_name: languid-bug-562
+run_uuid: 0b3a4711b6f84f57adf442a10826b9af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762529080405
+status: 3
+tags: []
+user_id: abhay kumar

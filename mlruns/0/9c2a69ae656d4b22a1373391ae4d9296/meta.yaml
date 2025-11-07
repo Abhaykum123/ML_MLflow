@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/ML_MLflow/ML_MLflow/mlruns/0/9c2a69ae656d4b22a1373391ae4d9296/artifacts
+end_time: 1762527405405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c2a69ae656d4b22a1373391ae4d9296
+run_name: welcoming-worm-278
+run_uuid: 9c2a69ae656d4b22a1373391ae4d9296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762527404811
+status: 3
+tags: []
+user_id: abhay kumar
